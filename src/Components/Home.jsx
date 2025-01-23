@@ -16,8 +16,8 @@ const Home = () => {
      <NavBar/>
      
      <div className="mt-32 ml-10 flex flex-col gap-2">
-      <h2 className="text-4xl font-serif">Find the book <br /> you're looking for <br /> easier to read.</h2>
-      <p className="">The most appropriate book site to reach books</p>
+      <h2 className="text-4xl font-serif">Welcome! <br />Find the book <br /> you're looking for, <br /> easier to read.</h2>
+      <p className=""> The most appropriate site to discover your next great read.</p>
      </div>
     </div>
 
